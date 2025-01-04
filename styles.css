@@ -84,3 +84,23 @@ h1 {
 .task-item button:hover {
   background: #c82333;
 }
+
+#clearTasksBtn {
+  background: #ff5722;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#clearTasksBtn:hover {
+  background: #e64a19;
+}
+
+#taskCounter {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #555;
+}
